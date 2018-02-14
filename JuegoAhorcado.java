@@ -119,7 +119,7 @@ public class JuegoAhorcado {
 		else {
 			System.out.println(" Otra vez será");
 		}
-		
+		 
 	}
 
 	// Método auxiliar que muestra la cadena con guiones en la posiciones que no
